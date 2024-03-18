@@ -1,0 +1,4 @@
+field,type,description
+Purchase Date,date,date of purchase when electoral bonds were purchased for donation
+Purchaser Name,string,Name of the donor who purchased the electoral bond
+Amount,int64,Total amount of electoral bonds that were purchased
